@@ -1,4 +1,3 @@
-import Navbar from '../../components/Navbar';
 import Featured from './Featured';
 import LatestNews from './LatestNews';
 import Faq from './Faq';
